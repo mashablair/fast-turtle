@@ -1,5 +1,5 @@
 # fast-turtle
-Practicing JS switch statements and CSS3 animations to make that turtle zoom. 
+Practicing JS switch statements and CSS3 animations to make that turtle zoom. A project from Wes Bos' class.  
 
 ## Why
 Sometimes JS switch statements are better than if...else statements because you have very defined cases.  
